@@ -1,0 +1,16 @@
+{
+  "name": "toast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Senpai013045",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "node-notifier": "^10.0.1"
+  }
+}
